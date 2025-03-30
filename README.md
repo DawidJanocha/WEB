@@ -13,4 +13,4 @@ This repository contains HTML, CSS, and JavaScript files for modern web developm
 ## 🚀 Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/WEB.git
+   git clone https://github.com/DawidJanocha/WEB.git
